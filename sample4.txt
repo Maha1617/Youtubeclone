@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sample4 is ready to display
+=======
+sample4 is ready now
+>>>>>>> origin
